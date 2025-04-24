@@ -1,8 +1,8 @@
-# 
-  ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
+# Professional Readme Generator
+  
 
   ## Description
-  
+  This project generates a readme file, just needed to provide the information by answering the questions.
 
   ## Table of Contents
   * [Installation](#installation)
@@ -15,16 +15,15 @@
   npm i
 
   ## Usage
+  Start application from develop folder
   
-  ## License
-This project is licensed under the MIT license.
 
   ## Contributing
-  
+  please provide feedback to make better
 
   ## Tests
   undefined
 
   ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at LuisPerez.LP@gmail.com . You can find more of my work at [](https://github.com/LPerez21 /).
+  If you have any questions about the repo, open an issue or contact me directly at LuisPerez.LP@gmail.com LuisPerez.LP@gmail.com. You can find more of my work at [LPerez21](https://github.com/LPerez21 LPerez21/).
 

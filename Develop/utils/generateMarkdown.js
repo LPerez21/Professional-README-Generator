@@ -57,13 +57,9 @@ function generateMarkdown(data) {
   ## Tests
   ${data.tests}
 
-  ## Questions
-  If you have any questions about the repo, open an issue or contact me directly at LuisPerez.LP@gmail.com ${
-    data.email
-  }. You can find more of my work at [${data.github}](https://github.com/LPerez21 ${
-    data.github
-  }/).
-
+## Questions
+If you have any questions about the repo, open an issue or contact me at <${data.email}>.  
+You can find more of my work at [${data.github}](https://github.com/${data.github}).
 `;
 }
 export default generateMarkdown;

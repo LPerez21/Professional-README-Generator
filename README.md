@@ -33,11 +33,14 @@ node index.js
 
 You will be prompted with a series of questions about your project. Answer each question to provide the necessary information for your README. Once you have answered all the questions, a `README.md` file will be generated in the root of the project directory, containing the information you provided.
 
+## Screenshot
+![App home screen](<./screenshots/Screenshot 2025-05-04 181045.jpg>)
+
 **Walkthrough Video:**
 
 [Link to your walkthrough video]
 
-*(Provide a link here to your video demonstrating the application's functionality)*
+[https://drive.google.com/file/d/1H9fiRBPsoCau7yp5pd0lghcuhfRCR5Zt/view?usp=drive_link]
 
 ## License
 
